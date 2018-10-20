@@ -7,5 +7,5 @@ First install pipenv. Then:
 
 ```
 pipenv install
-pipenvrun "python find-meteors.py"
+pipenvrun "python meteors/find-meteors.py"
 ```
