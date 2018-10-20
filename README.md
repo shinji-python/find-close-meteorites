@@ -3,4 +3,9 @@ Test
 
 ## Running
 
-Requires Python3 
+First install pipenv. Then:
+
+```
+pipenv install
+pipenvrun "python find-meteors.py"
+```
